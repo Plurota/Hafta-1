@@ -1,1 +1,1 @@
-Deneme 1 2 3
+# patikadaki ödevlerin birleştirilmiş bir halidir.
