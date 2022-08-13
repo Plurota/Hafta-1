@@ -17,3 +17,5 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğimizi tartışmak için bir konu açınız.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[Patika Profil Linkim](https://app.patika.dev/kagancelikm)
