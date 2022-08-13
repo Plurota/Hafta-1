@@ -1,1 +1,1 @@
-# patikadaki ödevlerin birleştirilmiş bir halidir.
+# Patika 1. hafta yaptığım şeyler.
