@@ -5,6 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        .container > p.intro + ul > li:first-child {
+            color: orange;
+        }
+    </style>
 </head>
 <body>
 <!--  type="a", style="list-style-type:square" kullanılabilir. -->
@@ -26,5 +31,24 @@
         <li class="item3"></li>
         <li class="item4"></li>
     </ul>
+    <div class="container">
+        <h2>Kodluyoruz</h2>
+        <p class="intro">Lorem ipsum dolor sit amet.</p>
+        <ul class="list">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Javascript</li>
+        </ul>
+    </div>
+        <p class="intro">Lorem, ipsum.</p>
+    <div class="container">
+        <h2>Kodluyoruz</h2>
+        <p>Lorem ipsum dolor sit.</p>
+        <ul class="list">
+            <li>Bootstrap</li>
+            <li>React</li>
+            <li>Angular</li>
+       </ul>
+    </div>
 </body>
 </html>
