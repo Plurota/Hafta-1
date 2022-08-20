@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,200;1,300&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.nav .container .row .col-6 .row .col-8 .row .col-4:hover {
+  background-color: rgb(232, 139, 41);
+}
